@@ -1,0 +1,24 @@
+{
+  "users": [
+      {
+        "id": "1",
+        "name": "Luke Skywalker",
+        "age": 22
+      },
+      {
+        "id": "2",
+        "name": "Princesa Leia",
+        "age": 22
+      },
+      {
+        "id": "3",
+        "name": "Yoda",
+        "age": 900
+      },
+      {
+        "id": "4",
+        "name": "Obi-Wan Kenobi",
+        "age": 60
+      }
+  ]
+}
